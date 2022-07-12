@@ -1,0 +1,15 @@
+he creado una clave ssh en el ordenador en git
+para conectar con gihub
+siguiendo estas instrucciones 
+https://docs.github.com/es/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases
+En la página theodinproject.com
+https://theodinproject.com/lessons/foundations-git-basics
+
+He asociado mi cuenta y aprendido a crear, editar, y subir archivos.
+
+git status - muestra en rojo las filas que no se han subido
+git add notas.txt - añade al area de espera color verde
+git commit -m "Add notas.txt"
+git log - listado de modificaciones
+git push - envia el trabajo a github
+(git push origin main)
